@@ -2,12 +2,11 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.dc.template</groupId>
-	<artifactId>WebTemplate</artifactId>
+	<artifactId>AngularTemplate</artifactId>
 	<packaging>war</packaging>
 	<version>1.0.0.1</version>
-	<name>WebTemplate Maven Webapp</name>
+	<name>AngularTemplate Maven Webapp</name>
 	<url>http://maven.apache.org</url>
-
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -59,7 +58,7 @@
 
 
 	<build>
-		<finalName>WebTemplate</finalName>
+		<finalName>AngularTemplate</finalName>
 
 		<pluginManagement>
 			<plugins>
