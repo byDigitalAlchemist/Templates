@@ -8,6 +8,9 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+    	
+    	ArrayPatternFinder finder = new ArrayPatternFinder();
+    	//System.out.println(" Can Iterate :  "+finder.canIterate360(2, 2, 'F'));
+    	finder.solve();
     }
 }
